@@ -1,0 +1,6 @@
+name: Profile Complete Percentage
+description: 'pcp module use to show user field status.'
+type: module
+core: 8.x
+libraries:
+  - pcp/pcp-block
